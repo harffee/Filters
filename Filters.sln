@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filters", "Filters\Filters.csproj", "{07A13147-CED5-4551-918F-6692E5E351FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A13147-CED5-4551-918F-6692E5E351FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A13147-CED5-4551-918F-6692E5E351FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A13147-CED5-4551-918F-6692E5E351FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A13147-CED5-4551-918F-6692E5E351FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
